@@ -1,0 +1,260 @@
+.block {
+width: 1440px;
+height: 500px;
+background: #ED4C5C;
+display: flex;
+}
+.block1>h2{
+    width: 445px;
+    height: 107px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+margin: 122px 81px 24px 165px;
+
+}
+.block1>p{
+width: 445px;
+height: 64px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #FFFFFF;
+margin-left: 165px;
+margin-bottom: 44px;
+}
+.block_img{
+    width: 28px;
+    height: 28px;
+    display: flex;
+    margin-left: 168.17px;
+}
+.img1{
+    margin-right: 28px;
+}
+.img3{
+    margin-left: 25px;
+}
+.block2{
+width: 533px;
+height: 311px;
+margin: 94px 216px 95px 81px;
+}
+main{
+width: 1440px;
+height: 500px;
+background: #FFFFFF;
+display: flex;
+align-items: baseline;
+}
+.main1>h3{
+width: 445px;
+height: 107px;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+margin:117px 114px 11px 176px;
+
+color: #000000;
+}
+ .main1>p{
+    width: 434px;
+    height: 64px;
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #000000;
+margin-left: 176px;
+margin-right: 125px;
+ } 
+ 
+ .name{
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    padding-left: 32px;
+    border-radius: 6px;
+    margin-right: 30px;
+    margin-bottom: 24px;
+    margin-top: 117px;
+ }
+ .last{
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    padding-left: 31px;
+    border-radius: 6px;
+    margin-left: 30px;
+ }
+ .tel{
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 701px;
+
+    
+    border: 1px solid #333333;
+    padding-left: 31px;
+    box-sizing: border-box;
+    border-radius: 6px;
+ }
+ .servise{
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    padding-left: 31px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-top: 24px;
+ }
+.button1{
+width: 160px;
+height: 50px;
+left: 735px;
+top: 872px;
+
+background: #ED4C5C;
+border: 1.5px solid #ED4C5C;
+box-sizing: border-box;
+border-radius: 6px;
+margin-top: 27px;
+color: #FFFFFF;
+}
+
+footer{
+    width: 1440px;
+height: 435px;
+text-decoration: none;
+
+}
+.block_footer1{
+    display: flex;
+justify-content: space-evenly;
+align-items: baseline;
+padding-top: 85px;
+
+}
+
+
+
+
+.Address_link>a{
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #101010;
+text-decoration: none;
+}
+.Address_link>address{
+ font-size: 12px;
+line-height: 150%;
+color: #101010;
+margin-top: 35px;
+margin-bottom: 141px;
+}
+.Services_link>a{
+    font-weight: bold;;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 18px;
+   line-height: 22px;
+   color: #101010;
+   text-decoration: none;
+   
+
+}.service__link{
+   
+    
+    WHITE-SPACE: pre-line;
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 160%;
+text-transform: capitalize;
+color: #000000;
+text-decoration: none;
+
+    
+}
+
+
+.Support_link{
+    display: grid;
+}
+.Support_link>a{
+ margin-bottom: 33px;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #101010;
+text-decoration: none;
+}
+.get_link_block1>a{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    text-decoration: none;
+    margin-bottom: 34px;
+    }
+    .get_link_block1>p>a{
+        width: 122px;
+height: 14px;
+left: 734px;
+top: 1185px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-decoration: none;
+
+color: #101010;
+
+    }
+    
+.get_link_block1.phome_link{
+    font-size: 12px;
+line-height: 14px;
+color: #121212;
+margin-bottom: 20px;
+}
+.link_facebook{
+    margin-right: 13px;
+}
+.link_linkedin{
+    width: 12px;
+    height: 12px;
+}
+
+.link_twitter{
+    width: 13px;
+    height: 11px;
+    margin-left: 13px;
+}
+.block_footer2{
+    margin-left: 141px;
+}
+
+
+
